@@ -1,0 +1,10 @@
+El nombre del virus se lo dan las espículas que recubren la parte exterior que hacen una forma de "corona".
+
+El virus pertenece a la familia coronaviridae y esta a su vez se divide en 3 generos, alfa beta y gama. 
+Esta familia infecta a humanos y animales, durante los ultimos años han afectado grandemente a poblaciones de cerdos y humanos.
+
+El sarscov19 es un beta coronavirus, gracias a la tecnologia actual se pudo encontrar rapidamente la estructura proteica del mismo,
+debido a esto se pudo encontrar que el virus tuvo un origen en un murcielago, aunque parece ser que hubo un hospedero intermedio.
+
+El virus de RNA cadena sencilla positiva enrollada en una miclocapsile envuelta en una glycoproteina de membrana por la proteina de envoltura
+y tiene las espiculas fuera de ella.  
